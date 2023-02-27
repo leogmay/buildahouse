@@ -4,7 +4,7 @@
 
  ---- Options ----
  
- ![image](https://user-images.githubusercontent.com/125558569/221702171-27e3814e-68bb-4974-b9f0-68800c4aa81d.png)
+![image](https://user-images.githubusercontent.com/125558569/221703967-86a0ee03-d54f-4ffd-9a3e-e337aa4664a5.png)
 
  ---- Description of each, doors and windows ----
  
